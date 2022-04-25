@@ -6,6 +6,6 @@ My first repository
 <h1>Hello World</h1>
 <p>Welcome to my first Github repository</p>  
 <p><strong>My social networks!</strong></p>
-<p><a ref="http:https://linktr.ee/enmanuel.abreu>CLICK THIS LINK</a></p>
+<p><a ref="https://linktr.ee/enmanuel.abreu>CLICK THIS LINK</a></p>
 </body>   
 </html>  

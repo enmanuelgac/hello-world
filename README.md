@@ -1,4 +1,3 @@
-# hello-world
 <DOCTYPE html>
 <html lang="eng">  
 <body style="background-color:cyan;">

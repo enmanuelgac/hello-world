@@ -1,5 +1,4 @@
 # hello-world
-My first repository
 <DOCTYPE html>
 <html lang="eng">  
 <body style="background-color:cyan;">

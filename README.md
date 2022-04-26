@@ -7,7 +7,7 @@
 <address>
 <a href="https://twitter.com/enmanuelgac">Twitter</a><br>
 <a href="https://www.reddit.com/user/enmanuel567">Reddit</a><br>
-enmanuel567@gmail.com<br>
+<a href="enmanuel567@gmail.com">enmanuel567@gmail.com</a><br>
 </address>
 </body>   
 </html>  
